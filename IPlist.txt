@@ -1,4 +1,4 @@
-#Ips to add to firewall
+#Ips to firewall
 
 80.66.83.53
 91.240.118.221
